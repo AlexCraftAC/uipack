@@ -1,0 +1,9 @@
+name:UIPack
+version:Pre-Alpha
+bundle:1
+info:Pre-Alpha Version! 1.0.10
+author:AlexCraft
+twitter:https://twitter.com/AlexCraftAC
+download:https://github.com/Lni-Energy-dev/Energy-Shaders/raw/master/versions/espe350.e
+recommend:.
+updated:02.06.2018
