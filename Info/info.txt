@@ -1,8 +1,0 @@
-name:UIPack
-version:Pre-Alpha
-bundle:1
-info:Pre-Alpha Version! 1.0.10
-author:AlexCraft
-twitter:https://twitter.com/AlexCraftAC
-download:https://github.com/AlexCraftAC/uipack/raw/master/UIPack/UI%20Pack%20Pre-alpha.e
-updated:03.06.2018
